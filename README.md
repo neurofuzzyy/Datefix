@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/25733438/README.md)
 # Datefix Demo
 
-> A visual brand demonstration for DateFix, built for Emily's portfolio.
+> A visual brand demonstration for DateFix, built for my portfolio.
 
 ## What It Does
 
